@@ -28,7 +28,11 @@ It also contains information on how to export data using to_csv and to_pickle.
 
 **Handling Outliers**
 
+**Cleaning text**
 
+**Datetime**
 
+**Mapping**
 
+**Apply**
 
