@@ -16,8 +16,17 @@ this is the addition structure of read_csv which can be used in specific scenari
 **Dtypes contains**  :- converting data types of series within a dataframe. By using commands like astype,to_numeric and to_datetime.
 It also contains information on how to export data using to_csv and to_pickle.
 
+**Combining datasets** :- 
 
+**Selecting_c_r**:- 
 
+**Modifying**:- 
+
+**Datacleaning1**
+
+**Missing data**
+
+**Handling Outliers**
 
 
 
