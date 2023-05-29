@@ -36,3 +36,10 @@ It also contains information on how to export data using to_csv and to_pickle.
 
 **Apply**
 
+**EDA**
+
+**Pivot**
+
+**Distribution**
+
+**Relationship**
